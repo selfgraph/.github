@@ -14,6 +14,7 @@ Enhanced, Open Source, self-hosted telegra.ph analog built on Vue.js 3
 - Enhanced features:
   - Dark mode support
   - Code syntax highlighting
+  - Internationalization
 
 Todo features:
 - SEO support
