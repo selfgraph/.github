@@ -2,7 +2,7 @@
 
 Enhanced, Open Source, self-hosted telegra.ph analog built on Vue.js 3
 
-![demonstration](demo.png)
+![demonstration](./demo.png)
 
 ## Features
 
@@ -22,7 +22,7 @@ Todo features:
 
 ## How it works
 
-### Frontend
+### [Frontend](https://github.com/selfgraph/web)
 
 Stack:
 - Vue.js 3
@@ -33,6 +33,6 @@ Stack:
   - shadcn/ui ([shadcn-vue](https://www.shadcn-vue.com))
   - Tailwind CSS with Tailwind Typography
 
-### Backend
+### [Backend](https://github.com/selfgraph/backend)
 
 Uses the concept of Backend as a Service (BaaS), and employs [Supabase](https://supabase.com) to provide it.
